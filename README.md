@@ -1,7 +1,5 @@
-# IBM CERTIFICATION
+# HOLBERTONSCHOOL FRANCE IBM CERTIFICATIONS
 
-## Introduction to Open Source
+## IBM Certificates - Trimester 1
 
-![certificate](https://github.com/Entwoane/holbertonschool-france-certificates-ibm/blob/main/certificates-trimester-1/certificate-oss.jpg)
-
-[Authencity](https://courses.skillsbuild.skillsnetwork.site/certificates/672011aaac374e2d940be36557934469)
+[Certificate: Introduction to Open Source](https://github.com/Entwoane/holbertonschool-france-certificates-ibm/blob/main/certificates-trimester-1/certificate-oss.jpg)
