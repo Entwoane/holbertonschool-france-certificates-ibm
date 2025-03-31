@@ -7,3 +7,5 @@
 ## IBM Certificates - Trimester 2
 
 [Certificate: SQL and relation databases](https://github.com/Entwoane/holbertonschool-france-certificates-ibm/blob/main/certificates-trimester-2/certificate-sql.jpg)
+
+[Certificate: Detecting SQL Injections with Guardium](https://github.com/Entwoane/holbertonschool-france-certificates-ibm/blob/main/certificates-trimester-2/certificate-sqli-guardium.png)
